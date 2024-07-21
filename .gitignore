@@ -1,1 +1,8 @@
+# Выход программы
 *.out
+
+# Файлы CMAKE
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
